@@ -36,6 +36,6 @@
         %>
 
         <br>
-        <a href="index.jsp" class="btn btn-primary"><span class="glyphicon glyphicon-home"></span> Pagina principal</button>
+        <a href="index.jsp" class="btn btn-primary"><span class="glyphicon glyphicon-home"></span> Pagina principal
 </body>
 </html>
